@@ -66,7 +66,12 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="jquery-2.2.0.min.js" />
+    <Content Include="menu.css" />
+    <Content Include="menu.js" />
     <Content Include="packages.config" />
+    <Content Include="bohema_regular_alternative.otf" />
+    <Content Include="Sansation_Italic.ttf" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
